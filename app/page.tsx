@@ -12,9 +12,9 @@ const HOTMART_CHECKOUT = "https://pay.hotmart.com/TU-LINK";
 const EMAIL_CONTACT = "mailto:contacto@isradeveloper.com";
 const SOCIALS = {
   instagram: "https://instagram.com/isra_developer",
-  linkedin: "https://linkedin.com/in/isra-developer",
+  linkedin: "https://linkedin.com/in/israeldlangel",
   youtube: "https://youtube.com/@isra_developer",
-  github: "https://github.com/isra-developer",
+  github: "https://github.com/iramirezftg",
 };
 
 // PLATAFORMAS
