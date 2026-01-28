@@ -24,8 +24,8 @@ const HACKTALENT_URL = "https://hacktalent-latam.base44.app/";
 // ====== ANALYTICS HELPERS ======
 const trackEvent = (event: string) => {
   if (typeof window !== "undefined") {
-    window.gtag?.('event', event);
-    window.fbq?.('trackCustom', event);
+    window.gtag?.("event", event);
+    window.fbq?.("trackCustom", event);
     window.ttq?.track(event);
   }
 };
