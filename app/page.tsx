@@ -1,9 +1,9 @@
+'use client'
+
 export const dynamic = 'force-dynamic'
 /**
  * Fuerza SSR en cada request (Vercel / Netlify / Node runtime)
  */
-
-"use client";
 
 import { motion } from "framer-motion";
 import { Button } from "@/components/ui/button";
